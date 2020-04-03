@@ -1,6 +1,6 @@
 # Aerial-Satellite-Imagery-Retrieval
 
-1. Chirag Khandar  
+1. Chirag Khandhar  
 2. Akshay Kulkarni
 3. Megha Tatti
 
